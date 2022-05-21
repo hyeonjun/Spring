@@ -3,6 +3,8 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/httpTest" />
+    <file type="web" url="file://$PROJECT_DIR$/junitSpring" />
+    <file type="web" url="file://$PROJECT_DIR$/junitTest/junitTest" />
     <file type="web" url="file://$PROJECT_DIR$/naverMapApi" />
     <file type="web" url="file://$PROJECT_DIR$/springTest" />
   </component>
