@@ -1,0 +1,8 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+# Spring boot 2.6 버전 이후 spring.mvc.pathmatch.matching-strategy 값이 ant_path_matcher에서 path_pattern_parser로 변경되면서
+# swagger 포함 몇몇 라이브러리에서 오류 발생
+# swagger 사용 시 Failed to start bean 'documentationPluginsBootstrapper'; nested exception is java.lang.NullPointerException 에러가 발생함
+# 그래서 위와 같이 작성해주면 된다.

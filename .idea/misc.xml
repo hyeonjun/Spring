@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/junitTest/junitTest" />
     <file type="web" url="file://$PROJECT_DIR$/naverMapApi" />
     <file type="web" url="file://$PROJECT_DIR$/springTest" />
+    <file type="web" url="file://$PROJECT_DIR$/swaggerTest" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
