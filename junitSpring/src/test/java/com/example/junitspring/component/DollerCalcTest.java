@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.context.annotation.Import;
 
-@SpringBootTest // ¸ðµç ºóµéÀÌ ´Ù µî·ÏµÊ
+@SpringBootTest
 public class DollerCalcTest {
 
     @MockBean
